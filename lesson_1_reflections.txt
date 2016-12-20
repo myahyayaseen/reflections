@@ -1,0 +1,90 @@
+Reflection Exercise 1:
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+Answer:
+
+diff helped me figure out the changes I have made to the file and also made me
+realize that I have made a typo. I can recall changes made by seeing the diff-
+erence and this helps me understand if there a actually a change or just a 
+mistake.
+
+Reflection Exercise 2:
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+Answer:
+
+Have access to older versions helps me restore them if the new version did not
+work out the way it was supposed to. This means I can always go back and see
+what changes I have made and what issues have caused the new version not to
+work. In the long term, I will be more efficient and will be able to save time
+and energy if I am able to see the old version at any time.
+
+Reflection Exercise 3:
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+Docs does?
+
+Answer:
+
+Pros:
+	You can choose when to commit. 
+	This keeps things logical rather than randomly saved.
+	Easier to read files when comparing.
+	Easy to revert the changes if required.
+	Available offline
+
+
+Cons:
+	May forget to commit
+	May not commit for too long.
+	May commit too early
+
+
+Reflection Exercise 4:
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+Answer:
+
+Git allows saving multiple files in one commit because it is useful for
+programming and developers. It keeps the files in sync which are dependant on
+each other.
+
+Reflection Exercise 5:
+
+How can you use the commands git log and git diff to view the history of files?
+
+Answer:
+
+git log lists all the commits in the repository. With the small message we can
+quickly recall and understand what was done within this version.
+
+git diff shows the comparison between 2 commits. Gives us the clear idea of what
+was added and what was removed.
+
+Reflection Exercise 6:
+
+How might using version control make you more confident to make changes that
+could break something?
+
+Answer:
+
+With all commits at a single logical change in the files, it makes it easier to
+go through the history of files and revert to any files whenever required. Also,
+this give me the confidence that even if I have made a mistake, I can go back to
+a working version at any time.
+
+Reflection Exercise 7:
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Answer:
+
+Reading git log, finding out differences between commits, revert to previous
+versions and also to view older versions at any time.
