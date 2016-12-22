@@ -57,3 +57,30 @@ Diagrams make it easier to understand that where the head is and how
 branches are progressing. If we would like to make progress to a certain 
 branch, diagrams help us make sure that we do not leave out any unreachable
 commits.
+
+Reflection Exercise 6:
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+Answer6:
+
+The result is that both branches point to a single headafter merger. 
+Merge helps merge development work from different branches into one, usually 
+the master branch. We can also safely delete branches that have been merged.
+In  the pictures, it helps us understand who the parent of the current commit 
+is and that we ensure that we do not have any unreachable heads or commits.
+
+Reflection Exercise 7:
+
+What are the pros and cons of Git's automatic merging vs. always doing merges 
+manually?
+
+Answer7:
+
+Automatic merges would mean that git must know what changes to keep and commit.
+Automatic merges cannot happen in case of a conflict because git leaves it to
+the user to determine what to keep or how to resolve the conflict.
+If this was not the case, git or any program would need to learn alot about why
+and what and how to resolve conflict to complete merges automatically.
+This will be a huge overhead so manual merging is definitely better.
