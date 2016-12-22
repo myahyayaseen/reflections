@@ -4,14 +4,33 @@ What happens when you initialize a repository? Why do you need to do it?
 
 Answer1:
 
-Initializing a repository will create a .git file within the same directory. Files within that directory will be untracked in the beginning. We need to do this to make that directory a repository. Otherwise it is essentially just a directory on our disks.
+Initializing a repository will create a .git file within the same directory. 
+Files within that directory will be untracked in the beginning. We need to do 
+this to make that directory a repository. Otherwise it is essentially just a 
+directory on our disks.
 
 Reflection Exercise 2:
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
 
 Answer2:
 
-Staging area is different from working directory because it will contain only those files that we would like to add whereas working directory contains everything that we have in there. 
-It lets us add whatever files we would like to add at any point in time rather than everything that we have. 
+Staging area is different from working directory because it will contain only 
+those files that we would like to add whereas working directory contains 
+everything that we have in there. 
+It lets us add whatever files we would like to add at any point in time rather 
+than everything that we have. 
 It will be easier for us to choose what we would like to commit and when!
+
+Reflection Exercise 3:
+
+How can you use the staging area to make sure you have one commit per logical 
+change?
+
+Answer3:
+
+When files are added to staging area, we can compare that with the working 
+directory and also with most recent commit to find out if this something we 
+really like to commit.
+This comparison help us determine if this is one logical change or more.
