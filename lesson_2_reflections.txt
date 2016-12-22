@@ -2,7 +2,7 @@ Reflection Exercise 1:
 
 What happens when you initialize a repository? Why do you need to do it?
 
-Answer:
+Answer1:
 
 Initializing a repository will create a .git file within the same directory. Files within that directory will be untracked in the beginning. We need to do this to make that directory a repository. Otherwise it is essentially just a directory on our disks.
 
@@ -10,7 +10,7 @@ Reflection Exercise 2:
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-Answer:
+Answer2:
 
 Staging area is different from working directory because it will contain only those files that we would like to add whereas working directory contains everything that we have in there. 
 It lets us add whatever files we would like to add at any point in time rather than everything that we have. 
