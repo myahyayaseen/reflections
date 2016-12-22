@@ -34,3 +34,26 @@ When files are added to staging area, we can compare that with the working
 directory and also with most recent commit to find out if this something we 
 really like to commit.
 This comparison help us determine if this is one logical change or more.
+
+Reflection Exercise 4:
+
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+
+Answer4:
+
+When we are trying out a new feature but not sure if it would work.
+Or when there is something we want to test while keeping the original code
+intact.
+Different language versions for different ares or countries.
+
+Reflection Exercise 5:
+
+How do the diagrams help you visualize the branch structure?
+
+Answer5: 
+
+Diagrams make it easier to understand that where the head is and how 
+branches are progressing. If we would like to make progress to a certain 
+branch, diagrams help us make sure that we do not leave out any unreachable
+commits.
