@@ -7,3 +7,14 @@ Answer1:
 When I am ready to share my work with others who I would like to contribute it to.
 Also, when I am ready to make my local work public so people could see it and help
 me with it by adding/editing some of my work.
+
+Reflection Exercise 2:
+
+Why might you want to always pull changes manually rather than having Git 
+automatically stay up-to-date with your remote repository?
+
+Answer2:
+
+GitHub can have changes made by different contibutors which we might not want
+to have. In that case,  it could be inconvenient if all changes are pulled 
+automatically and at times when we do not want them.
