@@ -18,3 +18,25 @@ Answer2:
 GitHub can have changes made by different contibutors which we might not want
 to have. In that case,  it could be inconvenient if all changes are pulled 
 automatically and at times when we do not want them.
+
+Reflection Exercise 3:
+Describe the differences between forks, clones, and branches. When would you 
+use one instead of another?
+
+Answer3:
+
+Forks:
+This is a GitHub feature and allows a user to copy any repository into thier 
+own account. This is an easier way of cloning a repository without needing to
+change the original. So when you want to use and modify someone's code on
+GitHub, fork it and copy it to your account.
+
+Clones:
+Clone is a copy of a repository either on a local machine or on GitHub. This 
+is used to copy a repository in a new directory locally or copy an online 
+repository onto local machine. This is used whenever a copy is to be made.
+
+Branches:
+Branch is a part of code that we are working on in a give repository. We can 
+use branching to keep our code separate to try something new or wild without
+affecting the original or master branch.
