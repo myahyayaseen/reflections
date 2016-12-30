@@ -20,6 +20,7 @@ to have. In that case,  it could be inconvenient if all changes are pulled
 automatically and at times when we do not want them.
 
 Reflection Exercise 3:
+
 Describe the differences between forks, clones, and branches. When would you 
 use one instead of another?
 
@@ -40,3 +41,13 @@ Branches:
 Branch is a part of code that we are working on in a give repository. We can 
 use branching to keep our code separate to try something new or wild without
 affecting the original or master branch.
+
+Reflection Exercise 4:
+
+What is the benefit of having a copy of the last known state of the remote 
+stored locally?
+
+Answer4:
+
+Having a copy of last known state of remote helps us when us to find out if
+changes have been made while we were offline.
