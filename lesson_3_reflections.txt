@@ -51,3 +51,14 @@ Answer4:
 
 Having a copy of last known state of remote helps us when us to find out if
 changes have been made while we were offline.
+
+Reflection Ex 5:
+
+How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
+
+Answer5:
+
+Without using Git and GitHub, collaboration would be harder. The only way is to
+send the code files to collaborators and ask them to review and make changes to
+thier local working directory. No way to keep track who did what and when.
