@@ -62,3 +62,15 @@ Answer5:
 Without using Git and GitHub, collaboration would be harder. The only way is to
 send the code files to collaborators and ask them to review and make changes to
 thier local working directory. No way to keep track who did what and when.
+
+Reflection Exercise 6:
+
+When would you want to make changes in a separate branch rather than directly 
+in master? What benefits does each approach have?
+
+Answer6:
+
+Branches are useful for testing new ideas and to share without having a broken
+master. It helps to ask for pull request for respective branches to get 
+feedback from co-workers and collaborators and merge everything only when it
+is free of conflicts and ready to be merged.
